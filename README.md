@@ -1,0 +1,1 @@
+# my-gitops-maven-project
