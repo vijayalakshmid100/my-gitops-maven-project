@@ -17,5 +17,5 @@ jobs:
       - name: docker version
         run: |
          docker --version
-         kubectl --version
+         kubectl version
   
