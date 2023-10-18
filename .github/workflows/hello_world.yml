@@ -16,6 +16,6 @@ jobs:
       - uses: actions/checkout@v2
       - name: docker version
         run: |
-         docker --version
-         kubectl version
+          kubectl version
+          docker --version
   
